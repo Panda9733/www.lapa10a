@@ -13,5 +13,8 @@ function poga3(){
 function poga4(){
     window.location.href="Mājaslapa.html"
 }
+function poga5(){
+    window.location.href="Karte.html"
+}
 
  
