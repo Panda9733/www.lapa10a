@@ -115,9 +115,7 @@ button {
             cursor: pointer;
             transition: background 0.2s;
         }
-        .wakeboarding-container button:hover {
-            background: #005fa3;
-        }
+       
 
 
 
@@ -149,14 +147,12 @@ button {
             object-fit: cover;
             border-radius: 12px;
             box-shadow: 0 2px 12px rgba(0,0,0,0.13);
-            border: 3px solid #00bfff;
+           
             background: #fff;
             transition: transform 0.2s;
         }
-        .windsurfing-gallery img:hover {
-            transform: scale(1.05) rotate(-2deg);
-            border-color: #0077cc;
-        }
+      
+        
         .windsurfing-container button {
             padding: 12px 32px;
             border: none;
@@ -213,14 +209,12 @@ button {
             object-fit: cover;
             border-radius: 12px;
             box-shadow: 0 2px 12px rgba(0,0,0,0.13);
-            border: 3px solid #00bfff;
+            
             background: #fff;
             transition: transform 0.2s;
         }
-        .kitesurfing-gallery img:hover {
-            transform: scale(1.05) rotate(-2deg);
-            border-color: #0077cc;
-        }
+     
+        
         .kitesurfing-container button {
             padding: 12px 32px;
             border: none;
