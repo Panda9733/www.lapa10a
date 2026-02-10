@@ -7,6 +7,9 @@ button {
     cursor: pointer;
     box-shadow:  30px  rgba(21, 200, 255, 0.6);
 }
+h3 {
+color: white;
+}
 
 /* General Styles */
                                    .sports-container {
